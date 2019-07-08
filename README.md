@@ -1,5 +1,6 @@
-# hello-Github
-hello-Github,hello world 
+# Hello-Github
+Hello-Github,hello world 
 
-this is daniel, now is 2019/5/15, i feel i have so much to learn, 
-may we all being treated well
+This is Daniel, now is 2019/5/15, I feel there are so much to learn, 
+May we are all being treated well
+
